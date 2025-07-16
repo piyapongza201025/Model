@@ -569,7 +569,4 @@ df = pd.DataFrame(df)
 segment_counts = df['Segment'].value_counts()
 
 
-# In[ ]:
-
-
 df.head()
